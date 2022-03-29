@@ -1,6 +1,6 @@
-//16���� �Է½� �ƽ�Ű�ڵ�� ���
+//16진수 입력시 아스키코드로 출력
 //ex)0x67616c662f706d742f ->  galf/pmt
-//���ʺ��Ҷ� ������ ����
+//포너블할때 쉬우라고 만듬, 근데 만들고나니 쓸데가 없다
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 void ascii(char * str) {
